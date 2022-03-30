@@ -1,2 +1,7 @@
 # Database-Model
-Database conceptual model
+
+Modelo conceitual para criação de banco de dados.
+
+Conceptual model for creating databases.
+
+
